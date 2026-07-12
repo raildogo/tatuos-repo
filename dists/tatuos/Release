@@ -1,0 +1,15 @@
+Origin: TatuOS
+Label: TatuOS Repository
+Suite: tatuos
+Codename: tatuos
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: Repositório oficial de pacotes do TatuOS
+Date: Sun, 12 Jul 2026 16:37:14 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ f9469e1b34e4d63357f737046a1ddb48 29 main/binary-amd64/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 18c60b5455a11a2013481489bb934eec46bc3b29b12716339c1840c57dac6e9c 29 main/binary-amd64/Packages.gz

@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TatuOS
+Label: TatuOS Repository
+Suite: tatuos
+Codename: tatuos
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: Repositório oficial de pacotes do TatuOS
+Date: Sun, 12 Jul 2026 16:37:14 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ f9469e1b34e4d63357f737046a1ddb48 29 main/binary-amd64/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 18c60b5455a11a2013481489bb934eec46bc3b29b12716339c1840c57dac6e9c 29 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEuSwA67y/mvJa/rFlwHbAwabouUYFAmpTwroYHHJhaWxkb2dl
+cmFsZG9AZ21haWwuY29tAAoJEMB2wMGm6LlGAS4P/0e31MHP7i/HPLrRHZ59pUPF
+YGwU9cf+abJfXQ6UwdP5T9Y1bNYyt3ii5vQp4/FwCck1R3IzNH7cDjlgn6+iOgSI
+FM1FWKAAgiixYCcr/7mvQ5N2Z/oTml8DYIDxCXYF2dJEu4e0Wi40XYb+ACFlbRls
+pEtEYcQjXxWGmWOWY75szX07/5+tS6mLU4pKPUwue3R1erUjJgAeANJc6ELAH2te
+4HGuxmaDQLNPidH52xRxS9vCEEhxTNVrEsHWVEymRuMVaVIqzOe54IgzpBPjBdzW
+CUhN/SeE3SJYEelbsa2E9fuJJAgc27ypmSv1fSYFx0f44SEfDB34+Vtk4SVtF3OA
+KWRHhhWR74xASvAgwmFT9nAAfrLGTVk461sDdybxeZW1sA2MPG+I1Ke/jclc2cKR
+VabF+x6c/ORuPsyx19TpTAXvN1NAYTJ0mi7G3X9p1lEACLXimzJYdoz67Un3N/6c
+GFJ4ro/822WC83JBRB/OZnoq+hcSW0FFFx6OaEGBLtM/Rzp7cTHUssry/u9TpP9m
+D57JfAhoJa7ijQ42FKBVIY7/Qo0GLqqKj0Y6fw1dq70rJn9CP0V/20ts/oG8wVeN
+CHcT0xnZjzqzIfdV8igelW5+ldfMGGDXIsBsew1GhTvtrAgUgxmjXGu4vnDxhv9T
+Xw60Vy48IHFUtDcdHi4Z
+=UTT3
+-----END PGP SIGNATURE-----
