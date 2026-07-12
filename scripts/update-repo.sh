@@ -88,13 +88,15 @@ if [ "$SIGN" = true ]; then
     GPG_KEY="TatuOS Repository"
     
     # Release.gpg (assinatura detached)
-    gpg --default-key "$GPG_KEY" \
+    gpg --batch --yes --pinentry-mode loopback \
+        --default-key "$GPG_KEY" \
         --armor --detach-sign \
         --output "$DIST_DIR/Release.gpg" \
         "$DIST_DIR/Release"
     
     # InRelease (assinatura inline — preferido pelo APT moderno)
-    gpg --default-key "$GPG_KEY" \
+    gpg --batch --yes --pinentry-mode loopback \
+        --default-key "$GPG_KEY" \
         --armor --clearsign \
         --output "$DIST_DIR/InRelease" \
         "$DIST_DIR/Release"
