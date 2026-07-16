@@ -48,7 +48,7 @@ for DEB_FILE in "$@"; do
     BASENAME=$(basename "$DEB_FILE")
     cp "$DEB_FILE" "$POOL_DIR/$BASENAME"
     echo "   ✅ Copiado: $BASENAME"
-    ((COPIED++))
+    COPIED=$((COPIED+1))
 done
 
 if [ "$COPIED" -eq 0 ]; then

@@ -39,7 +39,7 @@ echo "📋 Gerando Packages..."
 cd "$REPO_ROOT"
 
 if ls "$POOL_DIR"/*.deb 1>/dev/null 2>&1; then
-    dpkg-scanpackages --arch amd64 pool/main /dev/null > "$MAIN_DIR/Packages"
+    dpkg-scanpackages pool/main /dev/null > "$MAIN_DIR/Packages"
     gzip -9c "$MAIN_DIR/Packages" > "$MAIN_DIR/Packages.gz"
     
     PKG_COUNT=$(grep -c "^Package:" "$MAIN_DIR/Packages" 2>/dev/null || echo "0")

@@ -1,0 +1,14 @@
+Package: tatuos-wallpapers
+Version: 1.0-1
+Architecture: all
+Maintainer: Raildo <raildo@tatuos.local>
+Filename: pool/main/tatuos-wallpapers_1.0-1.deb
+Size: 4708624
+MD5sum: f9dc8d582c11dc5f06c40f7f02c85bae
+SHA1: 145c9ac2fc9d1ec336c785cf783741286c5ef4ff
+SHA256: 19e1c9a68b69a6799259ba460b272e5315fa89da1e0b4baae19f06c42db4cb91
+Section: x11
+Priority: optional
+Description: Wallpapers oficiais do TatuOS
+ Um pacote com os papeis de parede padrao para o TatuOS.
+

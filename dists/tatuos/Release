@@ -6,10 +6,10 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Repositório oficial de pacotes do TatuOS
-Date: Sun, 12 Jul 2026 16:41:10 +0000
+Date: Thu, 16 Jul 2026 00:28:47 +0000
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 5ed2173f5d3a0c3abcccaf91b2bb181b 29 main/binary-amd64/Packages.gz
+ 6d87d434342b53ff1953f716f9428ce8 457 main/binary-amd64/Packages
+ 6aa4ad70a2bc98c9f06dd54efc087ad1 343 main/binary-amd64/Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 8b2abea5fe1e5c25c1ee196fe8e79228c6bb1f4edfa4115e20c9fa80a3a951e6 29 main/binary-amd64/Packages.gz
+ b0c70243147bd1ed271fedb5337e23b43cb28dfee96184d5b7b09a2ee9fca483 457 main/binary-amd64/Packages
+ f6199c9ba94ade97a0c300c75d261bbe4b16cab6ef15ca516b696228aec3b7d3 343 main/binary-amd64/Packages.gz
