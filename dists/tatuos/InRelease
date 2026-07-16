@@ -9,27 +9,27 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Repositório oficial de pacotes do TatuOS
-Date: Thu, 16 Jul 2026 00:29:04 +0000
+Date: Thu, 16 Jul 2026 00:40:30 +0000
 MD5Sum:
- 6d87d434342b53ff1953f716f9428ce8 457 main/binary-amd64/Packages
- a4bbaf751653b4a750fbb715d63f9f0a 343 main/binary-amd64/Packages.gz
+ a523e7214fde9e053cadb4c87578c676 457 main/binary-amd64/Packages
+ 98f3cf94a597188174e2f304c3012447 345 main/binary-amd64/Packages.gz
 SHA256:
- b0c70243147bd1ed271fedb5337e23b43cb28dfee96184d5b7b09a2ee9fca483 457 main/binary-amd64/Packages
- 61075582594ab6237c2f2b3e4cec6cc0fbc55df4a7b64f7001c565eeb8fee6cd 343 main/binary-amd64/Packages.gz
+ fda2fa161a87e999b08e6d24513bb9ec63d3d3eba6263be2d3ca73213edf4c0f 457 main/binary-amd64/Packages
+ 2c8dc349ac6ed3786e5c1c39f9a0e52f845d2cbdfbd9a3ef2bf2ac588002c20c 345 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJMBAEBCgA2FiEEuSwA67y/mvJa/rFlwHbAwabouUYFAmpYJdAYHHJhaWxkb2dl
-cmFsZG9AZ21haWwuY29tAAoJEMB2wMGm6LlGBp4QAJWM1S1CaHBzYHJz6l64YlSS
-LPwEE5DWNWmH3VMumm2Kg+9pfv4bWxtKg4zqMVAWU38uHy9Fk1EKiQuplYfO2O5z
-7GY27vn3RsryE2CiIZ++uJMSTDDtHIAr47oQvTlTtlqJ/vBpgWE2iHsEg5P78Bfd
-nt3Vy0pYPXiSL9bIHr0i7WNFR/36P0Zn19+ntvvou7SQkpNfL8qgPZrjwW1szpZF
-fuv/RPU4wShIEPcQYY6K3zejWMuiYZY+hoE/X/y/3ms7w3RSZNj9sarRo3rH/hOi
-IziprL6mTnec5/KuGzxeaKv9lNCe62QEj7lc//wYpaTG6pFw2r2rp9tdQYspGe5B
-gg8oLi9Uc6aDCXkZNkjm9yp69zFAKG70YEtTn2gkI6AXy1SzcRKtJ+qQj06wcJfy
-yex0WzD1/Q0KCqEHf0+zW280NL44bL6Ns3KR0gKMe/A/Yt4BTXF3GdtdaW5dL6KG
-L+F52+swzITbLjf1Y18el5EeVmJUwWzJfEXwvoJeIxbZpSkokKnY4oVc3NuAXSD4
-K+H3xW73zskZFtiqgO/pwYbQhNO0220gCM8IUdGyIHfTFVvlDXfked88gqL/29Qs
-OLm3Ewan+kfo1xxupzrx/II3hItDS2WjTiOa/pSRNPiLZ98ja07AIPdf1SgF5cX3
-n9ZCfaltbYN7WbxrmtB2
-=dZ8R
+iQJMBAEBCgA2FiEEuSwA67y/mvJa/rFlwHbAwabouUYFAmpYKH8YHHJhaWxkb2dl
+cmFsZG9AZ21haWwuY29tAAoJEMB2wMGm6LlGukoP/2nCwSLpgPKb9uy45mr50mJC
+bxPDzo2+2gqA1+VAcderQxA+qZ6zsXz1PXD38sYpOCWz7c/AthgNIwPCPc6BhTrG
+mpZRsrlR853mgUK9wzro5IrdTJzeGo9l8FSDqKXid+HZA0TbuLfAdkCAREeTmsOk
+2eGtrL4yj3k/eKJiXe9q9usQ/0uRrNfSor3K5SXcbpRbNNcxw4D+nkU7emSV+w+1
+1c53rQb3JVQ4+MguAWOFJ/UYvRd6pBA99JWjRkLVciGOoyWvhpjPTV6z4uP90CAz
+obD9RCHh7maynnMMl8enbmHRJfjx3J+H8Q6heG6MFwUQe14Lt512ukPrzM5tbd3t
+/jAXNWAcWW2ED3dTfMzardE08En+CzPY2fvI0py3DjZzhCSZ1micDtUo+YEEWV71
+tBE/TCL8f2aGlmwt6izkTurTEjO+ZqETKnRUuuwaYwY7y0jdIf79uzbBbT8njEdC
+5KMjT3f6gOFPpIUVTIG/StLAarNxsBzYdYesz2S70nRZ93vT5CSIUieG3LEA6ood
+0hWef1gKIUkGzCilCHTXSxeG02KtQoyuElbhJQkOUczG/OwM2rF+5Sf16Qn1b+Og
+B8/Pv47VOAGFT34pl+6VhDImtO7wHN7OYWa94fINvTLN/fuXY8DmS7gKCD+wg3KZ
+hJUZH8JSPdBMQljw0yln
+=BFxK
 -----END PGP SIGNATURE-----

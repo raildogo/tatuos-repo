@@ -1,12 +1,12 @@
 Package: tatuos-wallpapers
-Version: 1.0-1
+Version: 1.0.2
 Architecture: all
 Maintainer: Raildo <raildo@tatuos.local>
-Filename: pool/main/tatuos-wallpapers_1.0-1.deb
-Size: 4708624
-MD5sum: f9dc8d582c11dc5f06c40f7f02c85bae
-SHA1: 145c9ac2fc9d1ec336c785cf783741286c5ef4ff
-SHA256: 19e1c9a68b69a6799259ba460b272e5315fa89da1e0b4baae19f06c42db4cb91
+Filename: pool/main/tatuos-wallpapers_1.0.2.deb
+Size: 4708788
+MD5sum: 6f83bd3b55f844509b02324afaa76a4b
+SHA1: ca90e360cfb46da4965482bc3b3e3f4b8d532df2
+SHA256: ef3d4ed93aa944cf1b758a1d563e689ff9f5cc1582c1cba738c4b379a4887a73
 Section: x11
 Priority: optional
 Description: Wallpapers oficiais do TatuOS
